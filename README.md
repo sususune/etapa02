@@ -1,2 +1,3 @@
-# etapa02
-Avaliação prática da etapa 2 de interface de usuário
+# Etapa02 - Avaliação Prática
+* Avaliação prática da etapa 2 de interface de usuário
+
