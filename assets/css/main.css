@@ -18,6 +18,7 @@
 
 body {
   color: rgba(var(--color-primary-rgb), 1);
+  font-family: Roboto;
 }
 
 a {
