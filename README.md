@@ -1,7 +1,5 @@
 # Etapa 02 - Interface de usuário - Avaliação Prática
 
-## Template utilizado: [Bootstrap - ZenBlog] (https://bootstrapmade.com/zenblog-bootstrap-blog-template/)
-
 ## Site sobre os sitemas do corpo humano
 
 ## Sistemas abordados:
@@ -16,3 +14,5 @@
 ## Autores:
 * Sofia Lima
 * João Victor Araújo
+
+### Template utilizado: [Bootstrap - ZenBlog] (https://bootstrapmade.com/zenblog-bootstrap-blog-template/)
