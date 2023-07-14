@@ -3,7 +3,7 @@
 ## Item 5 - Comentários sobre trechos do código
 
 ### Navbar:
-A barra de navegação implemeta os seguintes elementos:
+#### A barra de navegação implemeta os seguintes elementos:
 * Um dropdown de Sistemas, com links que levam para cada um dos sistemas do site, facilitando a navegação
 * Um link para o sobre nós, onde mostramos os criadores da página e os objetivos
 * Um link para as referências utilizadas para fazer o site
