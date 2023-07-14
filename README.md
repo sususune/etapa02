@@ -16,4 +16,4 @@
 * João Victor Araújo
 
 ## Template utilizado:
-* [Bootstrap - ZenBlog] (https://bootstrapmade.com/zenblog-bootstrap-blog-template/)
+[Bootstrap - ZenBlog] (https://bootstrapmade.com/zenblog-bootstrap-blog-template/)
