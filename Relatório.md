@@ -9,7 +9,7 @@ A barra de navegação implemeta os seguintes elementos:
 * Um link para as referências utilizadas para fazer o site
 * Os ul e li são usados para listas, o ul do dropdown possui uma li para cada sistema e a ul de cima possui lis para as páginas Sobre e Referências
 * A tag nav, dentro da tag header cria a navbar
-* Dentro dela temos duas ULs, uma para o dropdown dos sistemas e outra para o Sobre e Referências
+* Dentro dela temos duas uls, uma para o dropdown dos sistemas e outra para o Sobre e Referências
 ~~~html
 <header>
 <nav class="navbar">
