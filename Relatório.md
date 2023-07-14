@@ -16,6 +16,7 @@ O footer implementa uma row e as seguintes cols:os seguintes elementos:
 * Uma div que ocupa 4/12 do footer que mostra links sobre outras notícias relacionadas ao site
 
 ## Item 6 - Princípios de Desingn
+
 ### Consistência
 * A consistência serve como forma de melhorar a experiência do usuário, e garantir uma curva de apredizagem rapída, utilizando de padrões, essa seria sua definição. Ao observarmos todas as paginas do site que abordam os sistema, mantém um mesmo padrão, gerando assim uma consistência entre elas, permitindo a melhor experiencia do usuário, o dando conforto por precisar descobrir e aprender apenas uma pagina.
 ### Affordance
