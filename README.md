@@ -1,3 +1,18 @@
-# Etapa 02 - Avaliação Prática
-* Avaliação prática da etapa 2 de interface de usuário
-# Sitemas do Corpo Humano
+# Etapa 02 - Interface de usuário - Avaliação Prática
+
+## Template utilizado: [Bootstrap - ZenBlog] (https://bootstrapmade.com/zenblog-bootstrap-blog-template/)
+
+## Site sobre os sitemas do corpo humano
+
+## Sistemas abordados:
+* Circulatório
+* Digestório
+* Endócrino
+* Excretor
+* Locomotor
+* Nervoso
+* Respiratório
+
+## Autores:
+* Sofia Lima
+* João Victor Araújo
