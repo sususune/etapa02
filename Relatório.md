@@ -31,6 +31,12 @@ Dentro dela temos duas ULs, uma para o dropdown dos sistemas e outra para o Sobr
 ~~~
 * Os ul e li são usados para listas, o ul do dropdown possui uma li para cada sistema e a ul de cima possui lis para as páginas Sobre e Referências
 
+#### Classes:
+* Navbar:
+* Dropdown:
+* Bi Chevron Down
+* Dropdown Indicator:
+
 ### Footer:
 O footer implementa uma row e as seguintes cols:os seguintes elementos:
 * Uma div que ocupa 4/12 do footer, que fala sobre os criadores do site e mostra um link para a página Sobre
