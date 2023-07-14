@@ -9,20 +9,20 @@ A barra de navegação implemeta os seguintes elementos:
 Dentro dela temos duas ULs, uma para o dropdown dos sistemas e outra para o Sobre e Referências
 ~~~html
 <nav>
+<ul>
+	<li class="dropdown"><a href="#"><span>Sistemas</span> <i class="bi bi-chevron-down dropdown-	indicator"></a></i>
 	<ul>
-		<li class="dropdown"><a href="#"><span>Sistemas</span> <i class="bi bi-chevron-down dropdown-	indicator"></a></i>
-		<ul>
-			<li><a href="sistema-digestorio.html">Sistema Digestório</a></li>
-			<li><a href="sistema-respiratorio.html">Sistema Respiratório</a></li>
-			<li><a href="sistema-circulatorio.html">Sistema Circulatório</a></li>
-			<li><a href="sistema-nervoso.html">Sistema Nervoso</a></li>
-			<li><a href="sistema-locomotor.html">Sistema Locomotor</a></li>
-			<li><a href="sistema-endocrino.html">Sistema Endócrino</a></li>
-			<li><a href="sistema-excretor.html">Sistema Excretor</a></li>
-		</ul>
-			<li><a href="about.html">Sobre</a></li>
-			<li><a href="referencias.html">Referências</a></li>
+	<li><a href="sistema-digestorio.html">Sistema Digestório</a></li>
+	<li><a href="sistema-respiratorio.html">Sistema Respiratório</a></li>
+	<li><a href="sistema-circulatorio.html">Sistema Circulatório</a></li>
+	<li><a href="sistema-nervoso.html">Sistema Nervoso</a></li>
+	<li><a href="sistema-locomotor.html">Sistema Locomotor</a></li>
+	<li><a href="sistema-endocrino.html">Sistema Endócrino</a></li>
+	<li><a href="sistema-excretor.html">Sistema Excretor</a></li>
 	</ul>
+	<li><a href="about.html">Sobre</a></li>
+	<li><a href="referencias.html">Referências</a></li>
+</ul>
 </nav>
 ~~~
 * Um link para o sobre nós, onde mostramos os criadores da página e os objetivos
