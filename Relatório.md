@@ -25,6 +25,7 @@ Dentro dela temos duas ULs, uma para o dropdown dos sistemas e outra para o Sobr
 	</ul>
 	<li><a href="about.html">Sobre</a></li>
 	<li><a href="referencias.html">Referências</a></li>
+bi:https://getbootstrap.com/docs/5.3/helpers/icon-link/
 </ul>
 </nav>
 </header>
