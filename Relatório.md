@@ -8,7 +8,7 @@ A barra de navegação implemeta os seguintes elementos:
 * Um link para o sobre nós, onde mostramos os criadores da página e os objetivos
 * Um link para as referências utilizadas para fazer o site
 * Os ul e li são usados para listas, o ul do dropdown possui uma li para cada sistema e a ul de cima possui lis para as páginas Sobre e Referências
-* A tag <nav>, dentro da tag <header> cria a navbar
+* A tag nav, dentro da tag header cria a navbar
 * Dentro dela temos duas ULs, uma para o dropdown dos sistemas e outra para o Sobre e Referências
 ~~~html
 <header>
@@ -34,7 +34,7 @@ bi:https://getbootstrap.com/docs/5.3/helpers/icon-link/
 #### Classes:
 * Navbar:
 * Dropdown:
-* Bi Chevron Down
+* Bi Chevron Down:
 * Dropdown Indicator:
 
 ### Footer:
