@@ -13,7 +13,7 @@ Dentro dela temos duas ULs, uma para o dropdown dos sistemas e outra para o Sobr
 <header>
 <nav>
 <ul>
-	<li class="dropdown"><a href="#"><span>Sistemas</span> <i class="bi bi-chevron-down dropdown-	indicator"></a></i>
+	<li class="dropdown"><a href="#"><span>Sistemas</span> <i class="bi bi-chevron-down dropdown-indicator"></a></i>
 	<ul>
 	<li><a href="sistema-digestorio.html">Sistema Digestório</a></li>
 	<li><a href="sistema-respiratorio.html">Sistema Respiratório</a></li>
