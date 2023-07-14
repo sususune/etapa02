@@ -7,7 +7,7 @@ A barra de navegação implemeta os seguintes elementos:
 * Um dropdown de Sistemas, com links que levam para cada um dos sistemas do site, facilitando a navegação
   *A tag <nav>, dentro da tag <header> cria a navbar
 Dentro dela temos duas ULs, uma para o dropdown dos sistemas e outra para o Sobre e Referências
-
+~~~html
 <nav>
 <ul>
 	<li class="dropdown"><a href="#"><span>Sistemas</span> <i class="bi bi-chevron-down dropdown-	indicator"></a></i>
@@ -24,7 +24,7 @@ Dentro dela temos duas ULs, uma para o dropdown dos sistemas e outra para o Sobr
 		<li><a href="referencias.html">Referências</a></li>
 </ul>
 </nav>
-    
+~~~
 * Um link para o sobre nós, onde mostramos os criadores da página e os objetivos
 * Um link para as referências utilizadas para fazer o site
 
