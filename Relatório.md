@@ -37,13 +37,6 @@ bi:https://getbootstrap.com/docs/5.3/helpers/icon-link/
 * Bi Chevron Down:
 * Dropdown Indicator:
 
-### Footer:
-O footer implementa uma row e as seguintes cols:os seguintes elementos:
-* Uma div que ocupa 4/12 do footer, que fala sobre os criadores do site e mostra um link para a página Sobre
-* Uma div que ocupa 2/12 do footer, que possui links para navegação para a página inicial e para a página Referências
-* Uma div que ocupa 2/12 do footer que possui links para a navegação para todos os sistemas presentes no site
-* Uma div que ocupa 4/12 do footer que mostra links sobre outras notícias relacionadas ao site
-
 ## Item 6 - Princípios de Desingn
 
 ### Consistência
