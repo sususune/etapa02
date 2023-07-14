@@ -12,7 +12,7 @@
 * Respiratório
 
 ## Autores:
-* Sofia Lima
+* Sofia Lima Verde
 * João Victor Araújo
 
 ## Template utilizado:
