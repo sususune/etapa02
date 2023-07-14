@@ -2,3 +2,7 @@
 
 
 ## Princípios de Desingn
+* Consistência
+* Affordance
+*
+*
