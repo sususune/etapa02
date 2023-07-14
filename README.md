@@ -15,4 +15,5 @@
 * Sofia Lima
 * João Victor Araújo
 
-### Template utilizado: [Bootstrap - ZenBlog] (https://bootstrapmade.com/zenblog-bootstrap-blog-template/)
+## Template utilizado:
+* [Bootstrap - ZenBlog] (https://bootstrapmade.com/zenblog-bootstrap-blog-template/)
