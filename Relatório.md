@@ -11,7 +11,7 @@ A tag <nav>, dentro da tag <header> cria a navbar
 Dentro dela temos duas ULs, uma para o dropdown dos sistemas e outra para o Sobre e Referências
 ~~~html
 <header>
-<nav>
+<nav class="navbar">
 <ul>
 	<li class="dropdown"><a href="#"><span>Sistemas</span> <i class="bi bi-chevron-down dropdown-indicator"></a></i>
 	<ul>
