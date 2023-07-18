@@ -26,16 +26,14 @@
 	</ul>
 	<li><a href="about.html">Sobre</a></li>
 	<li><a href="referencias.html">Referências</a></li>
-bi:https://getbootstrap.com/docs/5.3/helpers/icon-link/
 </ul>
 </nav>
 </header>
 ~~~
 #### Classes:
-* Navbar:
-* Dropdown:
-* Bi Chevron Down:
-* Dropdown Indicator:
+* Navbar: A classe navbar é uma classe para navbar do bootstrap que implementa uma barra de navegação responsiva dentro do header
+* Dropdown: A classe dropdown implementa um "menu suspenso", que é aberto na navbar e mostra sub-itens de um item, como no caso: os sistemas dentro do item Sistema
+* Bi Chevron Down e Dropdown Indicator: São classes que implementam o ícone de seta presente no dropdown, para indicar que é um menu suspenso
 
 ## Item 6 - Princípios de Desingn
 
