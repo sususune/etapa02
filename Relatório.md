@@ -1,5 +1,9 @@
 # Relatório sobre a Avaliação
 
+## Resumo do site:
+
+### O site foi feito usando o template ZenBlog do Bootstrap, 
+
 ## Item 5 - Comentários sobre trechos do código
 
 ### Navbar:
