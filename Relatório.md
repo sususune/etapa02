@@ -2,9 +2,9 @@
 
 ## Site:
 
-### O site foi feito com fins acadêmicos e visa um ensino sobre os sistemas do corpo humano e o aprendizado dos desenvolvedores sobre interface e design.
-### Autores do site: Sofia Lima e João Victor Araújo
-### Template utilizado: ZenBlog - Bootstrap
+#### O site foi feito com fins acadêmicos e visa um ensino sobre os sistemas do corpo humano e o aprendizado dos desenvolvedores sobre interface e design.
+#### Autores do site: Sofia Lima e João Victor Araújo
+#### Template utilizado: ZenBlog - Bootstrap
 
 ## Item 5 - Comentários sobre trechos do código
 
