@@ -11,8 +11,8 @@
 ### Navbar:
 #### A barra de navegação implemeta os seguintes elementos:
 * Um dropdown de Sistemas, com links que levam para cada um dos sistemas do site, facilitando a navegação
-* Um link para o sobre nós, onde mostramos os criadores da página e os objetivos
-* Um link para as referências utilizadas para fazer o site
+* Um link para a página Sobre, onde mostramos os criadores da página e os objetivos
+* Um link para a página Referências, onde mostramos as referências utilizadas na criação do site
 * Os ul e li são usados para listas, o ul do dropdown possui uma li para cada sistema e a ul de cima possui lis para as páginas Sobre e Referências
 * A tag nav, dentro da tag header cria a navbar
 * Dentro dela temos duas uls, uma para o dropdown dos sistemas e outra para o Sobre e Referências
@@ -38,7 +38,7 @@
 ~~~
 
 #### Classes:
-* Navbar: A classe navbar é uma classe para navbar do bootstrap que implementa uma barra de navegação responsiva dentro do header
+* Navbar: A classe navbar é uma classe que implementa uma barra de navegação responsiva dentro do header
 * Dropdown: A classe dropdown implementa um "menu suspenso", que é aberto na navbar e mostra sub-itens de um item, como no caso: os sistemas dentro do item Sistema
 * Bi Chevron Down e Dropdown Indicator: São classes que implementam o ícone de seta presente no dropdown, para indicar que é um menu suspenso
 
