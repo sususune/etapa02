@@ -1,8 +1,10 @@
 # Relatório sobre a Avaliação
 
-## Resumo do site:
+## Site:
 
-### O site foi feito usando o template ZenBlog do Bootstrap, 
+### O site foi feito com fins acadêmicos e visa um ensino sobre os sistemas do corpo humano e o aprendizado dos desenvolvedores sobre interface e design.
+### Autores do site: Sofia Lima e João Victor Araújo
+### Template utilizado: ZenBlog - Bootstrap
 
 ## Item 5 - Comentários sobre trechos do código
 
@@ -34,6 +36,7 @@
 </nav>
 </header>
 ~~~
+
 #### Classes:
 * Navbar: A classe navbar é uma classe para navbar do bootstrap que implementa uma barra de navegação responsiva dentro do header
 * Dropdown: A classe dropdown implementa um "menu suspenso", que é aberto na navbar e mostra sub-itens de um item, como no caso: os sistemas dentro do item Sistema
